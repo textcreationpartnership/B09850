@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd by the land-owners and farmers of England for the passing the bill relating to the butter and cheese trade in answer to those offer'd by the cheesemongers against it.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09850</idno><idno type="EEBO-CITATION">62369626</idno>
+  <idno type="VID">188106</idno>
+  <idno type="EEBO-PROQUEST">2240867612</idno>
+  
+            <idno type="STC">Wing R533A</idno>
+            <idno type="STC">ESTC R234099</idno>
+            <idno type="OCLC">62369626</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188106)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd by the land-owners and farmers of England for the passing the bill relating to the butter and cheese trade in answer to those offer'd by the cheesemongers against it.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Butter trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Cheese industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188106:1"/>
+            <pb facs="tcp:188106:2"/>
+            <head>REASONS humbly Offer'd by the Land-owners and Farmers of <hi>England,</hi> For the passing the Bill relating to the Butter and Cheese Trade, in Answer to those offer'd by the Cheesemongers against it.</head>
+            <p n="1">I. THE Bill is for two purposes: The first is, to Relieve the Sellers against the great Oppressions they lie under by the ill use the Cheesemongers, and their Agents, have made of the Statute 14 <hi>Car. II.</hi>
+            </p>
+            <p>The Cheesemongers, soon after the making of that Statute, did set up in all the Port-Towns in the Counties where this Commodity is made, an Officer whom they call a Weigher (who is no Officer by Law, nor Sworn; but is usually a decayed Cheesemonger, sent from <hi>London</hi> by them) and he takes upon him (after the Factor hath bought the Goods at the Sellers House, and searched and approved them there, when they come at the Coast, it may be 20 or 30 Miles from the Sellers House, and are out of his possession) to Weigh and Search the Goods over again, and sets Rates of Deduction as he thinks fit, upon every Mans Goods, and writes back Notes to the Factor who bought the Com<g ref="char:EOLhyphen"/>modity, that he must discount so much out of the Price agreed for, which if the Seller refuseth to discount, then Infor<g ref="char:EOLhyphen"/>mations are exhibited upon some of the Branches of that Statute, and much Oppression is thereby.</p>
+            <p>About the year 1674. one <hi>Everard,</hi> a Weigher in the Port of <hi>Ipswich</hi> in <hi>Suffolk,</hi> exhibited in one Quarter-Sessions, above 200 Informations upon this Statute, against the Makers or Venders of this Commodity; and not one of them was tryed, but the Makers were under a Necessity of compounding with him; because the Statute gives the Informant half the Penalty, and double Costs if the Offender be Convicted: But the supposed Offender hath no Costs if he be acquitted; and the Persons informed against, chose rather to give the Informant 30 or 40 s. apiece to agree with him, than to spend 3 or 4 l. or more, to be acquitted.</p>
+            <p>And since this the Countrymen have not much contended with them, but have submitted to abate what the Weigher hath adjudged, rather than to stand an Information, in regard he can have no Costs if he be acquitted: And by this pra<g ref="char:EOLhyphen"/>ctice the Weighers, who are the Cheesemongers Servants, raise in one County, <hi>viz.</hi> in <hi>Suffolk,</hi> as near as can be compu<g ref="char:EOLhyphen"/>ted, 600 <hi>l. per annum,</hi> which is supposed, pays the Factors and the Weighers Wages, and more.</p>
+            <p n="2">II. The second part of the Act is to prevent the Trade being ingrossed by a few Men, and to make it open and free to all the Cheesemongers, and the makers of the Commodity.</p>
+            <p>The Trade out of <hi>Suffolk</hi> and <hi>Norfolk</hi> is now totally ingrossed by about 22 <hi>Thames-Street</hi> Cheesemongers, who oblige their Weigher at the Coast, to receive no Butter and Cheese, or put it on Board, but for these 22: And they oblige all the Hoymen (who go by Sea between <hi>London</hi> and <hi>Suffolk,</hi> in the Nature of Common Carriers by Land, to carry and recarry Goods) to take into their Vessels no Butter and Cheese, but for some, or one of these 22 Men. These very Hoyes bring any other Goods for any persons: But by the contrivance of these 22 Men, no Butter and Cheese can be brought up, but it must be their Goods, or consigned to them, or the Countryman must have leave from one of them, or he can<g ref="char:EOLhyphen"/>not send up his own Goods, nor send a Firkin of Butter to a Friend.</p>
+            <p>These 22 have every <hi>Wednesday</hi> a Clubb where they meet, and they set the price of the Goods below, and dispatch their Orders accordingly; and also set the Price of the same Goods here; and make the rest of the Cheesemongers that they exclude, by this practice, give them their own Price for the Goods here.</p>
+            <p>There are 300 Cheesemongers free of the City of <hi>London,</hi> and they would all (probably) Trade more or less, if these 22 did not exclude them; but they have excluded 20 Cheesemongers that did actually Trade into <hi>Suffolk</hi> and <hi>Norfolk,</hi> within a few years, and have very lately turned out a considerable Trader; and by degrees, if not prevented, they will lessen this Number, as they have already threatned to do.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>1</label> These 22 Men object two things against this Act,First, That it lets in all the Inconveniencies of the Statute of 14 <hi>Car.</hi> II. provides against: Secondly, That it invades their Properties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> As to the first, the Act proposed doth not Repeal the Stat' of 14 <hi>Car.</hi> II. for that Statute will be the standard of the Weight, and goodness of the Commodity still: And if the Goods are not made according to that standard, the Factor may, and doubtless will, refuse to buy them: And he also may (if he doth not buy them) Indict the Maker upon that Statute, for not making the Goods according to it; and the Statute gives him Encouragement enough, <hi>viz.</hi> double Costs, and half the Penalty. And as to the Factors carrying Weights about them, they need not; for every Maker of Butter and Cheese hath Weights sufficient, and such as the Factors have always hitherto used to buy by; and if they have not, the Factor is not obliged to buy the Goods; and besides, may Indict the Seller for bad Weights, there being already Laws sufficient to oblige him thereto; and there is a sufficient Provision in the Act proposed to prevent any Frauds in the Seller after the Goods bought: And the Seller is willing to submit to any Penalty shall be thought fit in Parliament to restrain
+<pb facs="tcp:188106:3"/>him therein; and the Factor that buys them, will be a Witness of such Fraud, and one Witness by the Act, is enabled to Convict the Offenders. And besides, the Buyer hath by Law an Action of the Case against the Seller for any such Fraud or Wrong.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>2</label> That these 22 Men make is, That it gives every Trader an equal Property in their private Shops, Warehouses, Servants and Vessels, without recompence.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> The Act proposed doth not meddle with any Mans Shop; and these 22 Men have no sole Property in any of these Ves<g ref="char:EOLhyphen"/>sels or Warehouses, or Servants, but the Vessels are the Common Hoyes that carry to and from <hi>London,</hi> and ought to be at Liberty to be freighted by every Man alike, that brings Goods to them before they be full; and not to be ingrossed by any one Body of Men: Neither do these Men freight them wholly, but if there happens not to be Butter and Cheese enough at that Port where they Lade, the Hoy-master is at liberty to take in any other Mans Goods to make up his freights, and doth so constantly (provided it be not Butter and Cheese) Neither do these 22 Men freight the said Vessels back from <hi>London,</hi> but they take in Goods of every Man, as they can get freight, as Common Carriers by Land do. And the Weighers are paid by the Load, and out of that they pay for the Warehouses themselves; and so they are no Mans proper Servants: And whereas these 22 Men engross the whole Commodity in <hi>Suffolk,</hi> it would be the same thing to the Weigher, if this Commodity were bought by 300 Men, instead of 22. for he would have the same Mony for every Load that he hath now.</p>
+            <p>This Act being only to prevent Oppressions made by the ill usage of the Statute of 14 <hi>Car.</hi> II. and being to make a free Trade, which is a Common Good to Mankind in general, and to prevent Ingrossers in this particular, Its humbly desired that it may pass into a Law.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
